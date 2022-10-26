@@ -1,6 +1,15 @@
-# retail-back-end
+# Back End Retail ORM 
 
-# criteria
+## Purpose
+This application is the back end for a e-commerce website. 
+
+## Built With
+* MySQL2
+* Express
+* Sequelize
+* dotenv 
+
+# Criteria
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
@@ -12,3 +21,9 @@ WHEN I open API GET routes in Insomnia for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
+
+## Video Demonstration 
+
+## Contribution
+Made with ❤️ by Krista Cannady
+Starter code from UNC Chapel Hill coding bootcamp. 
